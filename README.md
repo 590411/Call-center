@@ -34,7 +34,7 @@
  ### Data sources
  ---
 
-*The dataset use for this analysis is "Call Center_Dataset.csv"  file . we have data on sentiment ,csat_score reason channel etc*
+*The dataset use for this analysis is "Call Center_Dataset.csv"  file . we have data on sentiment ,csat_score , reason channel etc*
 
 
 ### Tools
